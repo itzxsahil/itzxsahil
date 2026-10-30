@@ -67,20 +67,16 @@ System setup, software configuration, hardware/software troubleshooting, and mai
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itzxsahil&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" alt="GitHub statistics for itzxsahil" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzxsahil&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Most used languages for itzxsahil" width="49%">
+  <a href="https://github.com/itzxsahil">
+    <img src="./images/userstats.svg" alt="GitHub statistics, contributions, repositories, and language distribution for itzxsahil" width="95%">
+  </a>
 </p>
 
----
-
-## 📈 Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzxsahil&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph for itzxsahil" width="95%">
-</p>
+Statistics are generated in this repository with GitHub Actions and refreshed daily.  
+<a href="https://github.com/itzxsahil">View my GitHub contribution calendar and activity</a>.
 
 ---
 
