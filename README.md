@@ -6,10 +6,10 @@
 
 <p align="center">
   <a href="https://github.com/itzxsahil">
-    <img src="https://img.shields.io/badge/GitHub-itzxsahil-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-itzxsahil-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: itzxsahil">
   </a>
   <a href="mailto:ssahiltandon364@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact">
   </a>
 </p>
 
@@ -70,8 +70,8 @@ System setup, software configuration, hardware/software troubleshooting, and mai
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itzxsahil&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzxsahil&layout=compact&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=itzxsahil&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" alt="GitHub statistics for itzxsahil" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzxsahil&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Most used languages for itzxsahil" width="49%">
 </p>
 
 ---
@@ -79,7 +79,7 @@ System setup, software configuration, hardware/software troubleshooting, and mai
 ## 📈 Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzxsahil&theme=tokyo-night&hide_border=true" width="95%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzxsahil&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph for itzxsahil" width="95%">
 </p>
 
 ---
