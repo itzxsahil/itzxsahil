@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="190" viewBox="0 0 880 190" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub profile statistics</title>
+  <desc id="desc">Profile statistics are generated automatically by GitHub Actions and refreshed daily.</desc>
+  <rect width="880" height="190" rx="16" fill="#161b22"/>
+  <rect x="1" y="1" width="878" height="188" rx="15" fill="none" stroke="#30363d"/>
+  <text x="36" y="49" fill="#e6edf3" font-family="Arial, sans-serif" font-size="23" font-weight="700">GitHub profile statistics</text>
+  <text x="36" y="82" fill="#8b949e" font-family="Arial, sans-serif" font-size="14">Automatically generated and refreshed daily using GitHub Actions.</text>
+  <g transform="translate(36 111)">
+    <rect width="244" height="48" rx="8" fill="#21262d"/>
+    <circle cx="22" cy="24" r="6" fill="#3fb950"/>
+    <text x="39" y="29" fill="#c9d1d9" font-family="Arial, sans-serif" font-size="13">Repository statistics</text>
+    <rect x="260" width="244" height="48" rx="8" fill="#21262d"/>
+    <circle cx="282" cy="24" r="6" fill="#58a6ff"/>
+    <text x="299" y="29" fill="#c9d1d9" font-family="Arial, sans-serif" font-size="13">Contribution activity</text>
+    <rect x="520" width="288" height="48" rx="8" fill="#21262d"/>
+    <circle cx="542" cy="24" r="6" fill="#d2a8ff"/>
+    <text x="559" y="29" fill="#c9d1d9" font-family="Arial, sans-serif" font-size="13">Programming language mix</text>
+  </g>
+</svg>
