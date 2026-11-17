@@ -5,11 +5,8 @@
 
 <br><br>
 
-<p align="center">
-  <a href="https://github.com/itzxsahil">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=19&pause=2000&color=38BDF8&center=true&vCenter=true&width=800&lines=Offensive+Security+%7C+Digital+Forensics+%7C+Incident+Response;Automated+Cloud+Infrastructure+%7C+Docker+%7C+noVNC;Python+%E2%80%A2+Node.js+%E2%80%A2+Linux+Kernel+%E2%80%A2+Network+Architecture;Building+high-performance%2C+resilient+systems." alt="Typing SVG" />
-  </a>
-</p>
+<!-- Cyber Glowing Blue Line Divider -->
+<img src="assets/cyber-line.svg" width="100%" alt="Cyber Line Divider" />
 
 </div>
 
@@ -20,8 +17,6 @@
 > Focused on **cybersecurity**, **automation engineering**, **networking**, and **high-availability IT systems**.
 > 
 > My work combines advanced **Python-based automation** with deep **system troubleshooting, security auditing, and cloud infrastructure**. I specialize in building practical technical solutions that emphasize operational security, real-time network visibility, digital forensics, and autonomous containerized environments.
-> 
-> Whether architecting low-level protocol relays, hardening cloud deployments on Render & Railway, or orchestrating sandboxed virtual desktops with zero memory overhead, my objective is delivering **scalable, resilient, and secure systems**.
 
 <br>
 
