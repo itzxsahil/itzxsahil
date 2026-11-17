@@ -18,6 +18,27 @@
 
 ---
 
+### 👨‍💻 About Me
+
+Focused on **cybersecurity, automation engineering, networking, and high-availability IT systems**.
+
+My work combines advanced **Python-based automation** with deep **system troubleshooting, security auditing, and cloud infrastructure**. I specialize in building practical technical solutions that emphasize operational security, real-time network visibility, digital forensics, and autonomous containerized environments.
+
+Whether architecting low-level protocol relays, hardening cloud deployments on Render & Railway, or orchestrating sandboxed virtual desktops with zero memory overhead, my objective is delivering scalable, resilient, and secure systems.
+
+---
+
+### 🔎 Core Areas of Focus
+
+- 🛡️ **Cybersecurity & Security Monitoring**: Threat intelligence, SIEM logging, anomaly detection, and vulnerability mitigation.
+- 🌐 **Network Analysis & Troubleshooting**: Packet-level inspection, traffic flow analysis, socket engineering, and protocol routing.
+- ⚡ **Python & Systems Automation**: Robust CLI automation, process supervisors, multi-threaded pipelines, and API integrations.
+- 🤖 **Browser & Desktop Virtualization**: Headless automation, containerized noVNC cloud desktops, and anti-detection engines.
+- 🔍 **Digital Forensics Fundamentals**: Artifact recovery, system telemetry analysis, and security auditing.
+- 🐧 **Linux & IT Infrastructure**: Kernel optimization, daemon supervision, automated recovery loops, and cloud containerization.
+
+---
+
 ### ⚡ Technical Arsenal & Core Stack
 
 <div align="center">
@@ -48,28 +69,6 @@
 
 ---
 
-### 📈 Activity & Development Velocity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzxsahil&theme=github-compact&hide_border=true&area=true&color=38BDF8" width="100%" alt="Contribution Graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="assets/github-stats.svg" width="48%" alt="GitHub Stats" />
-  &nbsp;
-  <img src="assets/top-languages.svg" width="48%" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzxsahil&theme=dark&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakNum=E2E8F0&sideNums=94A3B8&dates=64748B" height="160" alt="Streak Stats" />
-</div>
-
----
-
 <div align="center">
 
 ### 📬 Direct Communications
@@ -84,6 +83,6 @@
   </a>
 </p>
 
-<sub>Active systems engineering • Continuous integration &amp; security analysis</sub>
+<sub>Security • Automation • Systems • Continuous Learning</sub>
 
 </div>
