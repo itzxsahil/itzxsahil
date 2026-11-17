@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="100%" height="240">
+  <defs>
+    <linearGradient id="heroBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080C14" />
+      <stop offset="50%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#090D16" />
+    </linearGradient>
+    <linearGradient id="cyanPurple" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="50%" stop-color="#818CF8" />
+      <stop offset="100%" stop-color="#C084FC" />
+    </linearGradient>
+    <linearGradient id="cardGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1E293B" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#0F172A" stop-opacity="0.4" />
+    </linearGradient>
+    <style>
+      @keyframes radar {
+        0%, 100% { opacity: 1; r: 5; }
+        50% { opacity: 0.3; r: 7; }
+      }
+      .beacon { animation: radar 2s infinite ease-in-out; }
+    </style>
+  </defs>
+
+  <!-- Frame Background -->
+  <rect width="900" height="240" rx="16" fill="url(#heroBg)" stroke="#1E293B" stroke-width="1.5" />
+
+  <!-- Cyber Grid Lines (Subtle) -->
+  <g stroke="#1E293B" stroke-width="0.8" opacity="0.4">
+    <line x1="50" y1="0" x2="50" y2="240" />
+    <line x1="150" y1="0" x2="150" y2="240" />
+    <line x1="300" y1="0" x2="300" y2="240" />
+    <line x1="450" y1="0" x2="450" y2="240" />
+    <line x1="600" y1="0" x2="600" y2="240" />
+    <line x1="750" y1="0" x2="750" y2="240" />
+    <line x1="850" y1="0" x2="850" y2="240" />
+    <line x1="0" y1="60" x2="900" y2="60" />
+    <line x1="0" y1="120" x2="900" y2="120" />
+    <line x1="0" y1="180" x2="900" y2="180" />
+  </g>
+
+  <!-- Top Status Bar -->
+  <g transform="translate(35, 32)">
+    <circle cx="5" cy="5" r="5" fill="#10B981" class="beacon" />
+    <text x="20" y="9" fill="#10B981" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', monospace" font-size="11" font-weight="bold" letter-spacing="1.5">SYSTEM ACTIVE • DEVSECOPS PIPELINE ONLINE</text>
+    <rect x="700" y="-4" width="130" height="22" rx="11" fill="#1E293B" stroke="#334155" stroke-width="1" />
+    <text x="765" y="11" fill="#38BDF8" font-family="'Fira Code', monospace" font-size="10" font-weight="bold" text-anchor="middle">@itzxsahil</text>
+  </g>
+
+  <!-- Main Hero Title -->
+  <text x="35" y="105" fill="url(#cyanPurple)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="44" font-weight="900" letter-spacing="-0.5">SAHIL TANDON</text>
+
+  <!-- Subtitle Tagline -->
+  <text x="36" y="138" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="16" font-weight="600" letter-spacing="0.5">Cybersecurity Engineer &amp; Infrastructure Automation Architect</text>
+
+  <!-- Description Brief -->
+  <text x="36" y="165" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13">Architecting offensive security sandboxes, containerized virtual desktops &amp; autonomous Python networks.</text>
+
+  <!-- Terminal Pill Tags -->
+  <g transform="translate(36, 190)">
+    <rect x="0" y="0" width="125" height="26" rx="6" fill="#1E293B" stroke="#38BDF8" stroke-width="1" />
+    <text x="62" y="17" fill="#38BDF8" font-family="'Fira Code', monospace" font-size="11" font-weight="bold" text-anchor="middle">🛡️ CYBERSEC</text>
+
+    <rect x="135" y="0" width="140" height="26" rx="6" fill="#1E293B" stroke="#818CF8" stroke-width="1" />
+    <text x="205" y="17" fill="#818CF8" font-family="'Fira Code', monospace" font-size="11" font-weight="bold" text-anchor="middle">🐳 DOCKER / noVNC</text>
+
+    <rect x="285" y="0" width="135" height="26" rx="6" fill="#1E293B" stroke="#34D399" stroke-width="1" />
+    <text x="352" y="17" fill="#34D399" font-family="'Fira Code', monospace" font-size="11" font-weight="bold" text-anchor="middle">⚡ AUTOMATION</text>
+
+    <rect x="430" y="0" width="145" height="26" rx="6" fill="#1E293B" stroke="#C084FC" stroke-width="1" />
+    <text x="502" y="17" fill="#C084FC" font-family="'Fira Code', monospace" font-size="11" font-weight="bold" text-anchor="middle">🌐 REVERSE PROXY</text>
+
+    <rect x="585" y="0" width="145" height="26" rx="6" fill="#1E293B" stroke="#F59E0B" stroke-width="1" />
+    <text x="657" y="17" fill="#F59E0B" font-family="'Fira Code', monospace" font-size="11" font-weight="bold" text-anchor="middle">🔍 PACKET FORENSICS</text>
+  </g>
+</svg>
