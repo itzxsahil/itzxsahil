@@ -20,22 +20,49 @@
 
 ### 👨‍💻 About Me
 
-Focused on **cybersecurity, automation engineering, networking, and high-availability IT systems**.
+> ### 🎯 Core Engineering Philosophy
+> Focused on **cybersecurity**, **automation engineering**, **networking**, and **high-availability IT systems**.
+> 
+> My work combines advanced **Python-based automation** with deep **system troubleshooting**, **security auditing**, and **cloud infrastructure**. I specialize in building practical technical solutions that emphasize operational security, real-time network visibility, digital forensics, and autonomous containerized environments.
+> 
+> Whether architecting low-level protocol relays, hardening cloud deployments on Render & Railway, or orchestrating sandboxed virtual desktops with zero memory overhead, my objective is delivering **scalable, resilient, and secure systems**.
 
-My work combines advanced **Python-based automation** with deep **system troubleshooting, security auditing, and cloud infrastructure**. I specialize in building practical technical solutions that emphasize operational security, real-time network visibility, digital forensics, and autonomous containerized environments.
-
-Whether architecting low-level protocol relays, hardening cloud deployments on Render & Railway, or orchestrating sandboxed virtual desktops with zero memory overhead, my objective is delivering scalable, resilient, and secure systems.
-
----
+<br>
 
 ### 🔎 Core Areas of Focus
 
-- 🛡️ **Cybersecurity & Security Monitoring**: Threat intelligence, SIEM logging, anomaly detection, and vulnerability mitigation.
-- 🌐 **Network Analysis & Troubleshooting**: Packet-level inspection, traffic flow analysis, socket engineering, and protocol routing.
-- ⚡ **Python & Systems Automation**: Robust CLI automation, process supervisors, multi-threaded pipelines, and API integrations.
-- 🤖 **Browser & Desktop Virtualization**: Headless automation, containerized noVNC cloud desktops, and anti-detection engines.
-- 🔍 **Digital Forensics Fundamentals**: Artifact recovery, system telemetry analysis, and security auditing.
-- 🐧 **Linux & IT Infrastructure**: Kernel optimization, daemon supervision, automated recovery loops, and cloud containerization.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛡️ Cybersecurity &amp; Security Monitoring</h4>
+      <p>Threat intelligence, SIEM log analysis with Splunk, anomaly detection, and vulnerability mitigation.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌐 Network Analysis &amp; Troubleshooting</h4>
+      <p>Packet-level inspection via Wireshark, traffic flow forensics, socket engineering, and protocol routing.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ Python &amp; Systems Automation</h4>
+      <p>Robust CLI automation, process supervisors, multi-threaded pipelines, and asynchronous API integrations.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤖 Browser &amp; Desktop Virtualization</h4>
+      <p>Headless automation, containerized noVNC cloud desktops, and anti-detection engines.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔍 Digital Forensics Fundamentals</h4>
+      <p>Artifact recovery, security incident triage, system telemetry analysis, and compliance checks.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🐧 Linux &amp; IT Infrastructure</h4>
+      <p>Kernel optimization, daemon supervision, automated recovery loops, and cloud containerization.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
