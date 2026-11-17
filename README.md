@@ -9,37 +9,32 @@
   </a>
 </p>
 
+<!-- Live Pulse HUD -->
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-38BDF8?style=flat-square&labelColor=0F172A" alt="Status" />
-  <img src="https://img.shields.io/badge/FOCUS-DEVSECOPS%20%26%20AUTOMATION-818CF8?style=flat-square&labelColor=0F172A" alt="Focus" />
-  <img src="https://img.shields.io/badge/LOCATION-INDIA-94A3B8?style=flat-square&labelColor=0F172A" alt="Location" />
+  <img src="assets/live-pulse.svg" width="100%" alt="Live Developer Pulse" />
 </p>
 
 </div>
 
 ---
 
-### 🛡️ About Me
-
-I design and build secure, automated infrastructure systems with a focus on containerization, network security, and autonomous workflows. My work bridges low-level system tooling, cloud runtime environments, and proactive defense architectures.
-
-- 🔒 **Security Operations**: Threat vector analysis, network packet forensics with Wireshark, SIEM logging with Splunk, and vulnerability assessments.
-- ⚡ **Systems & Automation**: Multi-threaded Python automation engines, process supervisors, and WebSocket telemetry relays.
-- 🐳 **Containerization**: Production Docker containers featuring sandboxed GUI desktops (noVNC), dynamic port negotiation, and zero-overhead health monitoring.
-
----
-
-### ⚙️ Technical Arsenal
+### ⚡ Technical Arsenal & Core Stack
 
 <div align="center">
 
-| Domain | Technologies & Platforms |
-| :--- | :--- |
-| **Languages** | `Python` `JavaScript (ES6+)` `Node.js` `Bash / POSIX Shell` `C` |
-| **Containers & Virtualization** | `Docker` `Docker Compose` `Ubuntu Server` `noVNC` `Xvfb / x11vnc` `TigerVNC` |
-| **Cloud & Deployment** | `Render` `Railway` `Linux VPS` `Systemd` `Reverse Proxies` |
-| **Cybersecurity & Networking** | `Wireshark` `Nmap` `Splunk` `Autopsy` `SSHX` `TCP/UDP Sockets` `WebSockets` |
-| **Frameworks & Libraries** | `Flask` `FastAPI` `AsyncIO` `Selenium WebDriver` `Mineflayer` `yt-dlp` `Discord.py` |
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,nodejs,bash,c,docker,linux,ubuntu,fastapi,flask,selenium,git,github,discord,powershell&theme=dark" alt="Technical Arsenal" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Wireshark-Packet%20Inspection-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Nmap-Network%20Auditing-4682B4?style=for-the-badge&logo=target&logoColor=white" alt="Nmap" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Splunk-SIEM%20%26%20Telemetry-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
+</p>
 
 </div>
 
@@ -48,12 +43,12 @@ I design and build secure, automated infrastructure systems with a focus on cont
 ### 🏆 Verified Achievements & Milestones
 
 <p align="center">
-  <img src="assets/trophies.svg" width="100%" alt="Achievements & Milestones" />
+  <img src="assets/trophies.svg" width="100%" alt="Achievements &amp; Milestones" />
 </p>
 
 ---
 
-### 📈 Activity Metrics
+### 📈 Activity & Development Velocity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzxsahil&theme=github-compact&hide_border=true&area=true&color=38BDF8" width="100%" alt="Contribution Graph" />
@@ -77,7 +72,7 @@ I design and build secure, automated infrastructure systems with a focus on cont
 
 <div align="center">
 
-### 📬 Direct Channels
+### 📬 Direct Communications
 
 <p align="center">
   <a href="mailto:ssahiltandon364@gmail.com">
@@ -89,6 +84,6 @@ I design and build secure, automated infrastructure systems with a focus on cont
   </a>
 </p>
 
-<sub>Crafted for high performance, reliability, and security.</sub>
+<sub>Active systems engineering • Continuous integration &amp; security analysis</sub>
 
 </div>
