@@ -45,25 +45,11 @@ I design and build secure, automated infrastructure systems with a focus on cont
 
 ---
 
-### 🏆 Verified Achievements
+### 🏆 Verified Achievements & Milestones
 
-<div align="center">
-
-<a href="https://github.com/itzxsahil?tab=achievements">
-  <img src="https://github-profile-trophy.vercel.app/?username=itzxsahil&theme=darkhub&no-frame=true&margin_w=15&row=1&column=6" alt="Trophies" />
-</a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Achievement-Quickdraw-F59E0B?style=flat-square&logo=github&logoColor=white&labelColor=1E293B" alt="Quickdraw" />
-&nbsp;
-<img src="https://img.shields.io/badge/Achievement-Pull%20Shark-06B6D4?style=flat-square&logo=git&logoColor=white&labelColor=1E293B" alt="Pull Shark" />
-&nbsp;
-<img src="https://img.shields.io/badge/Achievement-Pair%20Extraordinaire-8B5CF6?style=flat-square&logo=github&logoColor=white&labelColor=1E293B" alt="Pair Extraordinaire" />
-&nbsp;
-<img src="https://img.shields.io/badge/Achievement-Starstruck-EC4899?style=flat-square&logo=star&logoColor=white&labelColor=1E293B" alt="Starstruck" />
-
-</div>
+<p align="center">
+  <img src="assets/trophies.svg" width="100%" alt="Achievements & Milestones" />
+</p>
 
 ---
 
@@ -76,15 +62,15 @@ I design and build secure, automated infrastructure systems with a focus on cont
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzxsahil&theme=dark&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakNum=E2E8F0&sideNums=94A3B8&dates=64748B" height="160" alt="Streak Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=itzxsahil&show_icons=true&theme=dark&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&bg_color=0D1117" height="160" alt="GitHub Stats" />
+  <img src="assets/github-stats.svg" width="48%" alt="GitHub Stats" />
+  &nbsp;
+  <img src="assets/top-languages.svg" width="48%" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzxsahil&layout=compact&theme=dark&hide_border=true&title_color=38BDF8&text_color=94A3B8&bg_color=0D1117" height="140" alt="Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzxsahil&theme=dark&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakNum=E2E8F0&sideNums=94A3B8&dates=64748B" height="160" alt="Streak Stats" />
 </div>
 
 ---
